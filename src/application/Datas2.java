@@ -12,6 +12,7 @@ public class Datas2 {
 		// TODO Auto-generated method stub
 		
 		// realizando cálculos com datas
+		// Este projeto foi adicionado a stage do .git
 		
 		LocalDate d01 = LocalDate.parse("2023-05-28");
 		LocalDateTime d02 = LocalDateTime.parse("2023-05-28T10:53:15");		
