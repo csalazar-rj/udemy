@@ -8,6 +8,7 @@ public class Cad_Bancario {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+		// este projeto foi adicionado ao github
 
 		Conta novaConta;
 		
