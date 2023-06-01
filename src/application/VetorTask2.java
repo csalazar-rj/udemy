@@ -7,6 +7,7 @@ public class VetorTask2 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+		// este projeto foi adicionado ao github
 		
 		// le numeros inteiros e guarda no vetor
 		// ao final exibe o maior deles e a sua posição no vetor
@@ -42,11 +43,7 @@ public class VetorTask2 {
 		for (int s = 0; s < vet.length; s++) {
 			if (vet[s] == maior) {
 				System.out.println("Posição no vetor: " + s);	
-			}
-			
-		}
-		
-		
+			}			
+		}			
 	}
-
 }
